@@ -2,11 +2,11 @@ Certainly! Below is a sample README file tailored for your project named "Mosnad
 
 ---
 
-# Mosnad User Management
+# Mosnad app2
 
 ## Description
 
-*Mosnad User Management* is a comprehensive user management system designed to handle user roles, permissions, and authentication efficiently. Built using Laravel, this application allows administrators to manage users, assign roles and permissions, and secure access to various parts of the application.
+*Mosnad app2* is a comprehensive user management system designed to handle user roles, permissions, and authentication efficiently. Built using Laravel, this application allows administrators to manage users, assign roles and permissions, and secure access to various parts of the application.
 
 ## Features
 
